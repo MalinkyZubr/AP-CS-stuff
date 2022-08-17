@@ -1,6 +1,5 @@
 public class Variables 
 {
-
     public static void main(String[] args)
     {
         int snapchatsSent = 353;

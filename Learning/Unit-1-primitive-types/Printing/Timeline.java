@@ -1,6 +1,3 @@
-public class Timeline {
-    
-}
 public class Timeline
 {
     public static void main(String[] args)
